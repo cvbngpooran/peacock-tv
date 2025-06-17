@@ -1,4 +1,4 @@
-project = 'Peacock-tv'
+project = 'Peacock Tv Sign in Account'
 author = 'Your Name'
 release = '1.0'
 
