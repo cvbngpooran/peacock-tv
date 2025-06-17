@@ -4,7 +4,7 @@ How DO I Login to Peacock TV: A Step-by-Step Guide
    :maxdepth: 2
    :caption: Contents:
 
-Peacock TV has swiftly become one of the most sought-after streaming platforms in the digital entertainment landscape. Offering a blend of live sports, TV shows, blockbuster movies, news, and exclusive original programming, it delivers something for everyone. Whether you're interested in free content or premium packages, the ability to access Peacock TV starts with one essential step — logging into your account.
+Peacock TV has swiftly become one of the most sought-after <a href="streaming platforms in the digital entertainment landscape. Offering a blend of live sports, TV shows, blockbuster movies, news, and exclusive original programming, it delivers something for everyone. Whether you're interested in free content or premium packages, the ability to access Peacock TV starts with one essential step — logging into your account.
 
 This detailed step-by-step guide will help new users understand how to log in to Peacock TV across various platforms and devices while also addressing common issues users might face during the login process.
 
